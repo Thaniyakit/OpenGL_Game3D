@@ -1,1 +1,1 @@
-# OpenGL_Game3D
+### Assignment3 - 3D Kinetic sculpture animation

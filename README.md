@@ -20,3 +20,8 @@ https://github.com/user-attachments/assets/c5dca518-4d91-4654-821b-dc82144d4ee9
   - car : https://skfb.ly/oPP9p
   - road : https://free3d.com/3d-model/street-estrada-971348.html
 
+### Assignment5 - Character animation control
+T : Talk
+K : Kick
+J : Punch
+Arrows key : Walk
